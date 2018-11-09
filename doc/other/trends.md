@@ -12,6 +12,8 @@
 
 地址： https://trends.google.com/trends/?geo=US  
 
+![](trends-google.png)
+
 2. 腾讯位置大数据
 
 可以查询腾讯地图开放平台当日定位次数。  
