@@ -11,3 +11,13 @@
 1. Google Trends
 
 地址： https://trends.google.com/trends/?geo=US  
+
+2. 腾讯位置大数据
+
+可以查询腾讯地图开放平台当日定位次数。  
+
+地址：https://heat.qq.com/  
+
+![](/image/heat_qq.png)
+![](/image/heat-qq-qianxi.png)
+
