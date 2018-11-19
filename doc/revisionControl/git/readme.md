@@ -77,7 +77,10 @@ Git 是一个免费的开源的分布式版本控制系统。
 * 暂存区文件提交到本地仓库 `git commit -m "修改说明"`  
 
 
-* 设置远程仓库地址 `git remote add origin https://github.com/tiankonguse/awesome-knowledge-graph.git`  
+* 添加远程仓库地址 `git remote add origin https://github.com/tiankonguse/awesome-knowledge-graph.git`  
+* 查看远程仓库地址 `git remote -v`  
+* 删除远程仓库地址 `git remote remove shotname`
+* 修改远程仓库地址 `git remte origin set-url URL`
 
 
 * 推动到远程仓库 `git push -u origin master`  
