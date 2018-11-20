@@ -80,12 +80,12 @@ Git 是一个免费的开源的分布式版本控制系统。
 * 添加远程仓库地址 `git remote add origin https://github.com/tiankonguse/awesome-knowledge-graph.git`  
 * 查看远程仓库地址 `git remote -v`  
 * 删除远程仓库地址 `git remote remove shotname`
-* 修改远程仓库地址 `git remte origin set-url URL`
+* 修改远程仓库地址 `git remte set-url origin URL`
 
 
 * 推动到远程仓库 `git push -u origin master`  
-* 拉去远程仓库（未合并到本地）  `git fetch`   
-* 拉去远程仓库（合并到本地）：`git pull`  
+* 拉去远程仓库（未合并到本地）  `git fetch [remoteName] [branchName]`   
+* 拉去远程仓库（合并到本地）：`git pull [remoteName] [branchName]`  
 
 
 * 创建分支 `git checkout -b/-B`  
