@@ -12,5 +12,6 @@
 * 其他  
     - [公众号运营技巧](./doc/other/weixin_skill.md)    
 	- [指数趋势](./doc/other/trends.md)  
+    - [VS CODE])(./doc/other/visual_studio_code.md)
 * 思维导图
     - [visio 格式](./doc/other/mind.md)
