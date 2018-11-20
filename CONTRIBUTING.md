@@ -202,7 +202,9 @@ Braces go on the same line as their enveloping statement:
         }
       }
  
-      /* Single line scopes should not have braces */
+      /* curly braces are not required for single-line statements
+       *  but they are allowed if you like them 
+       */
       if (1)
         hi();
       else if (2)
