@@ -15,3 +15,5 @@
     - [VS CODE](./doc/other/visual_studio_code.md)
 * 思维导图
     - [visio 格式](./doc/other/mind.md)
+* 算法与数据结构
+    - [目录](./doc/datastruct/menu.md)
