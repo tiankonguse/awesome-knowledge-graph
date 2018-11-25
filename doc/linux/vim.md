@@ -1,7 +1,24 @@
 # VIM
 
+## 配置
 
-# 性能
+* 显示空白和table
+
+```
+highlight RedundantSpaces ctermbg=red guibg=red
+match RedundantSpaces /\s\+$\| \+\ze\t\|\t/
+```
+
+* 显示换行符
+
+```
+:set list
+:set nolist
+```
+
+
+
+## 性能
 
 插件配置较多或者配置有误时，打开会比较慢。
 
