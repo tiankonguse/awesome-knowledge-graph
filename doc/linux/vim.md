@@ -17,6 +17,17 @@ match RedundantSpaces /\s\+$\| \+\ze\t\|\t/
 ```
 
 
+## 常见命令
+
+
+* 左右分割 `:vsp [fileName]`
+* 上下分割 `:sp [fileName]`
+* 窗口切换 `<C-w> hjkl`  
+* TAB页卡 `te [fileName]`
+* 上一个TAB `tp`
+* 下一个TAB `tn`
+
+
 
 ## 性能
 
