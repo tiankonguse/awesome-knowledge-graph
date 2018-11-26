@@ -1,5 +1,10 @@
 # VIM
 
+## 快捷键
+
+* 关键字补全 `CTRL+N`
+* 路径不全 `CTRL+X CTRL+F`
+
 ## 配置
 
 * 显示空白和table
