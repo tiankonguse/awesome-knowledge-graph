@@ -1,7 +1,7 @@
 # 只是图谱
 
 * [LINUX](./doc/linux)
-	- [perf](./doc/linux/lsof.md) 
+	- [perf](./doc/linux/perf.md) 
     - [lsof](./doc/linux/lsof.md)
     - [ps](./doc/linux/ps.md)
     - [vim](./doc/linux/vim.md)
