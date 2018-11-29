@@ -11,13 +11,16 @@
 
 * 关键字补全 `CTRL+N`
 * 路径不全 `CTRL+X CTRL+F`
-* 当前行移动到屏幕中间 `zz`
-* 当前行移动到屏幕顶部 `zt` 
-* 当前行移动到底部 `zb`
+* 当前光标行移动到屏幕中间 `zz`
+* 当前光标行移动到屏幕顶部 `zt` 
+* 当前光标行移动到底部 `zb`
+* 当前光标行上移一行 `ctrl-e`
+* 当前光标行下移一行 `cyrl-y`
 
 ## 配置
 
 * 显示空白和table
+
 
 ```
 highlight RedundantSpaces ctermbg=red guibg=red
