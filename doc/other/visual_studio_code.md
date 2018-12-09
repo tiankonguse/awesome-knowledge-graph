@@ -1,5 +1,17 @@
 # Visual Studio Code 使用手册
 
+## 配置
+
+* 路径查找
+
+对于 c++ 项目，经常会引用一些系统的头文件。  
+默认 VS code 是不会自动找到这些头文件的。  
+需要我们配置系统头文件的路径。  
+配置方法： `ctrl+shift+P` 打开命令面板，输入`C/Cpp: Edit Configurations`，选择 workspase，在`includePath`中添加即可。  
+
+
+
+
 ## 主命令框
 
 `F1` 或 `Ctrl+Shift+P` : 打开命令面板。
