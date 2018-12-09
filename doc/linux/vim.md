@@ -1,13 +1,26 @@
 # VIM
 
+## 基本操作
+
+括号会自动补齐。
+当在括号内编写完之后，往往需要移动到括号后面进行编辑。
+此时可以按对应的括号，vim就会自动移到到括号之后。而且依旧在编辑模式下。
+
+
 ## 快捷键
 
 * 关键字补全 `CTRL+N`
 * 路径不全 `CTRL+X CTRL+F`
+* 当前光标行移动到屏幕中间 `zz`
+* 当前光标行移动到屏幕顶部 `zt` 
+* 当前光标行移动到底部 `zb`
+* 当前光标行上移一行 `ctrl-e`
+* 当前光标行下移一行 `cyrl-y`
 
 ## 配置
 
 * 显示空白和table
+
 
 ```
 highlight RedundantSpaces ctermbg=red guibg=red
@@ -20,6 +33,17 @@ match RedundantSpaces /\s\+$\| \+\ze\t\|\t/
 :set list
 :set nolist
 ```
+
+
+## 常见命令
+
+
+* 左右分割 `:vsp [fileName]`
+* 上下分割 `:sp [fileName]`
+* 窗口切换 `<C-w> hjkl`  
+* TAB页卡 `te [fileName]`
+* 上一个TAB `tp`
+* 下一个TAB `tn`
 
 
 
