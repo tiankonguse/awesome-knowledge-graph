@@ -39,6 +39,11 @@ TCP 通信是双通道的。
 
 注：RST不能主动发出来。比如程序 shutdown、 close、异常退出、正常退出时，都是发送 FIN 包。   
 
+# 查看流量
+
+```
+sar -n DEV 1 | grep "eth1"
+```
 
 
 
