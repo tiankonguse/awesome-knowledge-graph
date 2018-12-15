@@ -1,5 +1,6 @@
 # 只是图谱
 
+* [参考资料](./doc/other/ref.md)
 * [LINUX](./doc/linux)
     - [perf](./doc/linux/lsof.md) 
     - [lsof](./doc/linux/lsof.md)
