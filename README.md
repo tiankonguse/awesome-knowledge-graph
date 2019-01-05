@@ -19,6 +19,7 @@
     - [全球互ping](./doc/other/global_ping_statistics.md)
     - [学习网站](./doc/other/study.md)
     - [视频](./doc/other/video.md)
+    - [数据](./doc/other/data.md)
 * 思维导图
     - [visio 格式](./doc/other/mind.md)
 * 算法与数据结构
